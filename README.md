@@ -18,3 +18,6 @@
 * [обработка данных](https://github.com/Satura/SQL_final_project/blob/main/linkedin.ipynb)
 
 * [SQL-запросы](https://github.com/Satura/SQL_final_project/blob/main/exam_project.sql)
+
+
+Достойна внимания, с точки зрения отработки SQL-запросов, [работа из модуля](https://github.com/Satura/SQL_HW)
